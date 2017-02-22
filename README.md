@@ -13,4 +13,4 @@ Créditos:
 Pablo Alexis De La Cruz González
 
 Licencia:
-Eclipse License
+Eclipse Public License
